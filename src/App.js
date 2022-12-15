@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import axios from "axios";
 import Forpaging from "./Components/Forpaging";
 import { Forpage } from "./Components/Forpage";
-import 'react-datepicker/dist/react-datepicker.css';
 import "./Components/Style.css";
 
 const App = () => {
